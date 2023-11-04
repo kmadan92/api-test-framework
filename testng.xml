@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><suite name="RegressionSuite"><listeners><listener class-name="Utilities.ExtentListener"/></listeners><test name="RegressionTest"><classes><class name="Flows.CMSUI_PublishingAndDownloading"><methods><include name="CreatePublicationAddMapWithOutput_CDFPDF"/></methods></class></classes></test></suite>
